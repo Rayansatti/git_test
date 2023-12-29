@@ -1,3 +1,3 @@
-# the-doin-project
+# git_test
 my first git repo,
 hello odin!
